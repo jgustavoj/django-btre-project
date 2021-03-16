@@ -149,5 +149,6 @@ dmypy.json
 # profiling data
 .prof
 
-
+# static folders
 /static
+static 
